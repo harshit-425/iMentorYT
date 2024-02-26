@@ -1,8 +1,8 @@
-## [Your Name] Porfolio
+## [Harshit Agrawal] Porfolio
 
 # Portfolio
 
-Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Harshit Agrawal and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [Burpsuite and Wireshark] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
@@ -14,9 +14,8 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
 
-|     Certification     |               Completed?               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+|           Certification             |               Completed?               |     Link       |
+| ----------------------------------- | -------------------------------------- | ---------------| 
+| Google Cybersecurity Certificate    |                16/02/2024                |     <a href="https://www.coursera.org/account/accomplishments/professional-cert/85TWTZMMUEQL">Certificate</a>        | 
 
